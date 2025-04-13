@@ -19,9 +19,10 @@ Make sure you have **Go 1.x** or higher installed on your machine.
 
 1. Clone the repository:
    ```bash
-        git clone https://github.com/SOORAJTS2001/glim.git .
-    ```
+    git clone https://github.com/SOORAJTS2001/glim.git .
+   ```
 2. ```bash
     go run main.go
-    ```
+   ```
+You could always exit the application by typing `quit` or `exit`
 
