@@ -26,3 +26,7 @@ Make sure you have **Go 1.x** or higher installed on your machine.
    ```
 You could always exit the application by typing `quit` or `exit`
 
+## Example
+
+![Landing](https://raw.githubusercontent.com/SOORAJTS2001/glim/refs/heads/main/landing.png)
+![Help](https://raw.githubusercontent.com/SOORAJTS2001/glim/refs/heads/main/help.png)
